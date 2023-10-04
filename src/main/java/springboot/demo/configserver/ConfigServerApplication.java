@@ -1,4 +1,4 @@
-package springboot.demo.configServer;
+package springboot.demo.configserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

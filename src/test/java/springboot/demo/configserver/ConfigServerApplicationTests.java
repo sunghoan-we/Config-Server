@@ -1,4 +1,4 @@
-package springboot.demo.configServer;
+package springboot.demo.configserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
